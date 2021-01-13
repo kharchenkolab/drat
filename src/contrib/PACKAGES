@@ -1,0 +1,6 @@
+Package: p2data
+Version: 1.0.0
+Depends: R (>= 3.6)
+License: GPL-3 
+MD5sum: 4dbe1a34397d651f5be8258424aa54ab
+NeedsCompilation: no
