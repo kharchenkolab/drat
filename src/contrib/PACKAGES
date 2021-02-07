@@ -4,3 +4,10 @@ Depends: R (>= 3.6)
 License: GPL-3 
 MD5sum: 950c32e1a6c223f61635b47ce88a882a
 NeedsCompilation: no
+
+Package: conosPanel
+Version: 1.0.0
+Depends: R (>= 3.6)
+License: GPL-3 
+MD5sum: f6e0ccc29334e8cbd4263a6b8d57b0c4
+NeedsCompilation: no
