@@ -1,13 +1,11 @@
 Package: p2data
 Version: 1.0.0
-Depends: R (>= 3.5.0)
 License: GPL-3 
-MD5sum: 174ece352e4d10ce015d02bab7b49ddd
+MD5sum: b0ef3784e5736d6539f33e26a5bf3863
 NeedsCompilation: no
 
 Package: conosPanel
 Version: 1.0.0
-Depends: R (>= 3.5.0)
 License: GPL-3 
-MD5sum: b0ef3784e5736d6539f33e26a5bf3863
+MD5sum: 174ece352e4d10ce015d02bab7b49ddd
 NeedsCompilation: no
