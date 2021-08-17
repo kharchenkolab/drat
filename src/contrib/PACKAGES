@@ -9,3 +9,9 @@ Version: 1.0.0
 License: GPL-3 
 MD5sum: 174ece352e4d10ce015d02bab7b49ddd
 NeedsCompilation: no
+
+Package: simulatedNMF
+Version: 1.0.0
+License: GPL-3 
+MD5sum: 926468724830db464e41af71dabe291c
+NeedsCompilation: no
